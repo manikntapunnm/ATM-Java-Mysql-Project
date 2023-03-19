@@ -38,12 +38,21 @@ The Bank Management System (ATM) is implemented using Java (AWT Swing) and MySQL
 The system includes the following classes:
 
 MainClass: This class contains the main method of the system.
+
 ATMFrame: This class contains the user interface of the system.
+
 Controller: This class handles the communication between the model and the view.
+
 Model: This class contains the data and the logic of the system.
+
 DAO: This class handles the database operations.
-Testing:
-The Bank Management System (ATM) is tested using unit testing and integration testing. Unit testing is performed on individual components of the system, while integration testing is performed on the system as a whole.
+
 
 Conclusion:
-The Bank Management System (ATM) is a software solution designed to facilitate the daily operations of a bank. The system provides customers with easy access to their accounts through automated teller machines (ATMs). The system is built using Java (AWT Swing) and MySQL and is designed using the Model-View-Controller (MVC) architecture. The system includes features such as user login, balance inquiry, cash withdrawal, cash deposit, transfer funds, and change PIN. The system is tested using unit testing and integration testing.
+The Bank Management System (ATM) is a software solution designed to facilitate the daily operations of a bank. 
+
+The system provides customers with easy access to their accounts through automated teller machines (ATMs). 
+
+The system is built using Java (AWT Swing) and MySQL and is designed using the Model-View-Controller (MVC) architecture. 
+The system includes features such as user login, balance inquiry, cash withdrawal, cash deposit, transfer funds, and change PIN. 
+
