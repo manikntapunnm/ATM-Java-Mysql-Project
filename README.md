@@ -56,3 +56,28 @@ The system provides customers with easy access to their accounts through automat
 The system is built using Java (AWT Swing) and MySQL and is designed using the Model-View-Controller (MVC) architecture. 
 The system includes features such as user login, balance inquiry, cash withdrawal, cash deposit, transfer funds, and change PIN. 
 
+
+![Screenshot 2023-03-22 155844](https://user-images.githubusercontent.com/111174684/226876821-0833de0b-b27d-4910-b65d-c40ec3b7d150.png)
+
+![Screenshot 2023-03-22 155907](https://user-images.githubusercontent.com/111174684/226876851-8573c4fe-a612-4937-94d9-452c1682694d.png)
+
+
+
+![Screenshot 2023-03-22 155919](https://user-images.githubusercontent.com/111174684/226876891-faa697a3-98a5-4f92-9b0e-0b645dee69cb.png)
+
+
+![Screenshot 2023-03-22 155944](https://user-images.githubusercontent.com/111174684/226876921-44d49436-706c-4190-9144-aea677418bb3.png)
+
+
+
+![Screenshot 2023-03-22 155931](https://user-images.githubusercontent.com/111174684/226876909-e8df16e9-c7e9-44dc-ab2d-dd2a4a756493.png)
+
+
+![Screenshot 2023-03-22 160000](https://user-images.githubusercontent.com/111174684/226876940-7c3869c5-c211-4960-ba27-b95bacdbe89c.png)
+
+![Screenshot 2023-03-22 160014](https://user-images.githubusercontent.com/111174684/226876965-144a3fcd-9968-4d86-b626-d36c36333d02.png)
+
+
+![Screenshot 2023-03-22 160027](https://user-images.githubusercontent.com/111174684/226876987-cc34f12b-648e-466a-9623-267fa86cdf9d.png)
+
+
